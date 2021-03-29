@@ -1,3 +1,4 @@
+https://github.com/PinkPanther-ny/cs_project1_testing_script
 testGenNY.sh
 testGenByNuoyan.py
 runTests.sh
